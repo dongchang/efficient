@@ -1,0 +1,3 @@
+rootProject.name='DcEfficient'
+include ':app'
+include ':app:eficient'
